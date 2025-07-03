@@ -48,7 +48,7 @@ Code: https://github.com/Yuv1810/Humanize_ai_project`,
   ];
 
   return (
-    <div className={`${caveat.className} py-8 w-full flex justify-center`}>
+    <div className={`${caveat.className} pt-8 pb-4 w-full h-auto flex justify-center`}>
       <div className="scale-[0.7] sm:scale-[0.8] md:scale-[0.9] lg:scale-[1] origin-top transition-transform duration-300">
         <HTMLFlipBook
           width={370}
